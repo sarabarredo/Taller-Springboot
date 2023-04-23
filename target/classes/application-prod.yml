@@ -1,0 +1,3 @@
+course:
+   message: ¡Hola Mundo desde el entorno de producción!
+   defaultmessage: No hay mensajes en el entorno de producción...

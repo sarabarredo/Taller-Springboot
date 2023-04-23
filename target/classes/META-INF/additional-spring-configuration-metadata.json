@@ -1,0 +1,97 @@
+{"properties": [
+  {
+    "name": "course.message",
+    "type": "java.lang.String",
+    "description": "A description for 'course.message'"
+  },
+  {
+    "name": "course.defaultmessage",
+    "type": "java.lang.String",
+    "description": "A description for 'course.defaultmessage'"
+  },
+  {
+    "name": "saludo.hello",
+    "type": "java.lang.String",
+    "description": "A description for 'saludo.hello'"
+  },
+  {
+    "name": "perfil.hello",
+    "type": "java.lang.String",
+    "description": "A description for 'perfil.hello'"
+  },
+  {
+    "name": "course.default.message",
+    "type": "java.lang.String",
+    "description": "A description for 'course.default.message'"
+  },
+  {
+    "name": "message.hello",
+    "type": "java.lang.String",
+    "description": "A description for 'message.hello'"
+  },
+  {
+    "name": "default.message",
+    "type": "java.lang.String",
+    "description": "A description for 'default.message'"
+  },
+  {
+    "name": "course.defaultmessage",
+    "type": "java.lang.String",
+    "description": "A description for 'course.defaultmessage'"
+  },
+  {
+    "name": "spring.jpa.spring.jpa.database-platform",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.spring.jpa.database-platform'"
+  },
+  {
+    "name": "spring.jpa.spring.jpa.properties.hibernate.default_schema",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.spring.jpa.properties.hibernate.default_schema'"
+  },
+  {
+    "name": "h2.console.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'h2.console.enabled'"
+  },
+  {
+    "name": "spring.jpa.hibernate.default_schema",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.default_schema'"
+  },
+  {
+    "name": "spring.jpa.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.dialect'"
+  },
+  {
+    "name": "course.defaultmessage",
+    "type": "java.lang.String",
+    "description": "A description for 'course.defaultmessage'"
+  },
+  {
+    "name": "course.defaultmessage",
+    "type": "java.lang.String",
+    "description": "A description for 'course.defaultmessage'"
+  },
+  {
+    "name": "course.defaultmessage",
+    "type": "java.lang.String",
+    "description": "A description for 'course.defaultmessage'"
+  },
+  {
+    "name": "course.defaultmessage",
+    "type": "java.lang.String",
+    "description": "A description for 'course.defaultmessage'"
+  },
+  {
+    "name": "course.defaultmessage",
+    "type": "java.lang.String",
+    "description": "A description for 'course.defaultmessage'"
+  },
+  {
+    "name": "course.message",
+    "type": "java.lang.String",
+    "description": "A description for 'course.message'"
+  }
+]}

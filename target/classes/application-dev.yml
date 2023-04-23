@@ -1,0 +1,3 @@
+course:
+   message: ¡Hola Mundo desde el entorno de desarrollo!
+   defaultmessage: No hay mensajes en el entorno de desarrollo...
